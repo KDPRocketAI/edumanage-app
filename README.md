@@ -17,17 +17,18 @@ A complete School Management App with Attendance & Homework features.
 [Play Store Link Here]
 
 ## Screenshots
-<img width="1080" height="1920" alt="1" src="https://github.com/user-attachments/assets/d6f8c94b-028c-4a92-ab64-d9dd97e32aaa" /><img width="1080" height="1920" alt="12" src="https://github.com/user-attachments/assets/ed4eff49-774f-48fd-b0a8-02e1a61a71f4" />
-<img width="1080" height="1920" alt="11" src="https://github.com/user-attachments/assets/f6f262c5-e4c5-4bda-872a-cf10812e4122" />
-<img width="1080" height="1920" alt="10" src="https://github.com/user-attachments/assets/9859f38a-a876-4a07-80d6-72233accbcaf" />
-<img width="1080" height="1920" alt="9" src="https://github.com/user-attachments/assets/d1a88199-ab6b-4c8d-af50-4de7453d7693" />
-<img width="1080" height="1920" alt="8" src="https://github.com/user-attachments/assets/0cc53792-e19d-42d2-be55-6d4169e1166d" />
-<img width="1080" height="1920" alt="7" src="https://github.com/user-attachments/assets/b6d48291-891d-40a3-83ad-0d1339423104" />
-<img width="1080" height="1920" alt="6" src="https://github.com/user-attachments/assets/fd51c56d-d409-4c9d-a5b8-494a8d55a28b" />
-<img width="1080" height="1920" alt="5" src="https://github.com/user-attachments/assets/7fd8ea45-b09e-46e3-a9da-066615d22764" />
-<img width="1080" height="1920" alt="4" src="https://github.com/user-attachments/assets/6283ca1a-edf2-4f4f-b862-9cdd6e9f9a1b" />
-<img width="1080" height="1920" alt="3" src="https://github.com/user-attachments/assets/4607fc8e-a5a9-4d4f-a40d-f819db125f35" />
-<img width="1080" height="1920" alt="2" src="https://github.com/user-attachments/assets/4d4f0ec2-a636-4965-b146-797728744ae3" />
+<img width="1080" height="1920" alt="11" src="https://github.com/user-attachments/assets/cdd0ebff-5394-4058-8206-a45e65f47011" />
+<img width="1080" height="1920" alt="10" src="https://github.com/user-attachments/assets/06167694-21cb-45f6-a8a5-a23cea09d86e" />
+<img width="1080" height="1920" alt="9" src="https://github.com/user-attachments/assets/0f246ef2-66a8-4876-80b8-c96d3fb2eab0" />
+<img width="1080" height="1920" alt="8" src="https://github.com/user-attachments/assets/a251342f-7994-4561-9e59-ea87f163dbbb" />
+<img width="1080" height="1920" alt="7" src="https://github.com/user-attachments/assets/ab02d14f-6988-4cf8-9da2-9e88951dbb76" />
+<img width="1080" height="1920" alt="6" src="https://github.com/user-attachments/assets/c89eb098-d06a-4f99-a910-690d1ba7dbf0" />
+<img width="1080" height="1920" alt="5" src="https://github.com/user-attachments/assets/bfeb626b-f602-46ca-9644-09a609b9993f" />
+<img width="1080" height="1920" alt="4" src="https://github.com/user-attachments/assets/1650cbae-e691-457c-bd5b-008eddbc0514" />
+<img width="1080" height="1920" alt="3" src="https://github.com/user-attachments/assets/680c19e9-39d0-4338-8844-ce89dc4c8847" />
+<img width="1080" height="1920" alt="2" src="https://github.com/user-attachments/assets/4265a0bf-a44a-4fc7-ac16-edce0068f3b3" />
+<img width="1080" height="1920" alt="1" src="https://github.com/user-attachments/assets/6aca6ceb-40dd-4e5e-89c4-97d622093230" />
+
 
 
 ## Getting Started
