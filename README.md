@@ -14,7 +14,7 @@ A complete School Management App with Attendance & Homework features.
 - Firebase
 
 ## Download
-[Play Store Link Here]
+[[Play Store Link Here]](https://play.google.com/store/apps/details?id=com.edumanage.app)
 
 ## Screenshots
 <img width="1080" height="1920" alt="11" src="https://github.com/user-attachments/assets/cdd0ebff-5394-4058-8206-a45e65f47011" />
